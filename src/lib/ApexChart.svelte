@@ -1,6 +1,6 @@
 <script context="module" lang="ts">
   import type ApexCharts from 'apexcharts';
-  import { browser } from '$app/env';
+  import { browser } from '$app/environment';
   let apexCharts: typeof ApexCharts | undefined;
 
   if (browser) {
