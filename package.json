@@ -24,7 +24,7 @@
     "@types/cookie": "^0.5.1",
     "@typescript-eslint/eslint-plugin": "^5.33.1",
     "@typescript-eslint/parser": "^5.33.1",
-    "apexcharts": "^3.35.4",
+    "apexcharts": "^4.3.0",
     "eslint": "^8.22.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-svelte3": "^4.0.0",
