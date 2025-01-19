@@ -14,7 +14,7 @@
     "format": "prettier --write --plugin-search-dir=. ."
   },
   "peerDependencies": {
-    "apexcharts": "^3.35.4"
+    "apexcharts": "^4.0.0"
   },
   "devDependencies": {
     "@playwright/test": "^1.25.0",
